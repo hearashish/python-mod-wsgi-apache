@@ -18,6 +18,7 @@ It can be installed in two ways
 > Can be deleted using rm -rf <virtual-env-dir>
 6. Install dependencies will be used in project like django
 > pip3/pip install django
+> sudo apt-get install libapache2-mod-wsgi-py3
 7. Create virtual host and activate it in apache
 8. Virtual host is given for help
 
